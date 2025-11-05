@@ -1,7 +1,7 @@
 {
   "ver":1.0,
   "se":{
-    "8":{"url":"https://raw.githubusercontent.com/20373107hyh/my_tenhou_voice/main/arknights/qiepai-output.wav"},
+    "6":{"url":"https://raw.githubusercontent.com/20373107hyh/my_tenhou_voice/main/arknights/qiepai-output.wav"},
     "9":{"url":"https://raw.githubusercontent.com/20373107hyh/my_tenhou_voice/main/arknights/pei-output.wav"},
     "11":{"url":"https://raw.githubusercontent.com/20373107hyh/my_tenhou_voice/main/arknights/yaku.wav"},
     "25":{"url":"https://raw.githubusercontent.com/20373107hyh/my_tenhou_voice/main/arknights/pon-output.wav"},
@@ -19,3 +19,4 @@
     "41":{"url":"https://raw.githubusercontent.com/20373107hyh/my_tenhou_voice/main/arknights/yakumann-output.wav"}
   }
 }
+
